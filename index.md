@@ -95,7 +95,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
                             </div>
                         </div>
                     </div>
-        </center>
+       
         <div class="mdui-dialog" id="aboutPages">
             <div class="mdui-dialog-title">关于 About</div>
             <div class="mdui-dialog-content">本页面由 @苦力怕纸 开发<br>框架使用开源项目：MDUI<br>本页仓库：<a href="https://github.com/klpbbs/CPS-Test" target="_black">CPS-Test</a><br>苦力怕论坛，有你更精彩~</div>
@@ -161,5 +161,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     integrity="sha384-gCMZcshYKOGRX9r6wbDrvF+TcCCswSHFucUzUPwka+Gr+uHgjlYvkABr95TCOz3A"
     crossorigin="anonymous"
     ></script>
-</body>
 </html>
