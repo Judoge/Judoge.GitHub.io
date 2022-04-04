@@ -37,7 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-
+###这是klpbbs的测速（doge）
 
 <!DOCTYPE HTML>
 <html lang="zh-cn">
@@ -118,7 +118,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
             }
         }
         
-        #####这是klpbbs的cps测速（doge）
 
         function time(){
             var time = document.getElementById("time");
