@@ -118,6 +118,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
             }
         }
         
+        #####这是klpbbs的cps测速（doge）
 
         function time(){
             var time = document.getElementById("time");
