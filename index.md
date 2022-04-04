@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ###这是klpbbs的测速（doge）
 
-<!DOCTYPE HTML>
+
 <html lang="zh-cn">
 <head>
     <meta charset="utf-8">
