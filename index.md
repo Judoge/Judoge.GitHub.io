@@ -1,42 +1,4 @@
 ## 块神君Judoge的小黑屋
-##### 告诉你个秘密但不完全秘密的秘密，这是一只鲨臂的不能用鲨臂形容的鲨臂（
 ##### 至于这小黑屋为什么114514年后才写...相信我，我只是懒而已（
 
-You can use the [editor on GitHub](https://github.com/Judoge/Judoge.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-<embed height="200" type="application/x-shockwave-flash" width="200" src="http://www.blogclock.cn/swf/S1000746cf11489-9.swf" wmode="transparent" quality="high">
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Judoge/Judoge.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+This site was built using [点我进入klpbbs主页](https://klpbbs.com/space-uid-102212.html)
