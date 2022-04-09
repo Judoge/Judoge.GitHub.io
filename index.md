@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Judoge/Judoge.GitHub.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<embed height="200" type="application/x-shockwave-flash" width="200" src="http://www.blogclock.cn/swf/S1000746cf11489-9.swf" wmode="transparent" quality="high">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
