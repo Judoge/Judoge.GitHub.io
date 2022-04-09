@@ -1,5 +1,6 @@
 ## 块神君Judoge的小黑屋
-##### 告诉你个秘密但不完全秘密的秘密，这人是鲨臂
+##### 告诉你个秘密但不完全秘密的秘密，这是一只鲨臂的不能用鲨臂形容的鲨臂（
+##### 至于这小黑屋为什么114514年后才写...相信我，我只是懒而已（
 
 You can use the [editor on GitHub](https://github.com/Judoge/Judoge.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
